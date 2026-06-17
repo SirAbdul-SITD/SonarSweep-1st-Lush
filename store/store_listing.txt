@@ -1,0 +1,42 @@
+═══════════════════════════════════════════
+SONARSWEEP — PLAY STORE LISTING
+com.luchdevs.sonarsweep
+═══════════════════════════════════════════
+
+APP TITLE (max 50 chars):
+SonarSweep: Mine Logic Puzzle
+
+SHORT DESCRIPTION (max 80 chars):
+Read the sonar numbers, flag the sea mines, clear the seafloor. 150 sectors!
+
+FULL DESCRIPTION:
+🌊 SCAN. DEDUCE. DEFUSE. 🌊
+
+Welcome aboard, Operator. Your sonar has mapped 150 seafloor sectors — and every one of them is laced with mines. Reveal the floor tile by tile, read the number clues, and use pure logic to flag every mine without setting one off.
+
+📡 HOW TO PLAY
+• Tap to scan a tile — numbers show how many mines touch it
+• Long-press (or use FLAG MODE) to mark mines with a buoy
+• Tap a satisfied number to auto-reveal its neighbors (chording!)
+• Your first scan is ALWAYS safe — start anywhere
+• Clear every safe tile to secure the sector
+
+✨ FEATURES
+• 150 sectors: Easy 8×8, Medium 10×10, Hard 12×12 with rising mine density
+• Guaranteed safe first tap with an open starting area
+• One-tap chording for fast, satisfying clears
+• Dedicated flag mode — no fiddly long-presses required
+• Beat the par time for 3 stars
+• Atmospheric deep-sea sonar visuals and ambient soundtrack
+• Haptic feedback
+• 100% offline, no ads, no purchases, zero data collection
+
+🧠 THE TIMELESS DEDUCTION CLASSIC
+No guessing your way to victory here — every number is a clue, and every clue matters. How fast can you read the seafloor?
+
+Dive in, Operator. The sonar is pinging. 📡
+
+CATEGORY: Games > Puzzle
+CONTENT RATING: Everyone
+PRICE: Free
+TAGS: minesweeper, mines, logic, deduction, sonar, puzzle, classic, flags, brain, strategy
